@@ -43,4 +43,4 @@ A: Whilst the conversions look very promising, please understand that Fido is no
 
 Q: Why Fido?
 
-A: The acronym stands for Files In, Documents Out. It also a dog name for dog, derived from the Latin word fidelis meaning "faithful. This explains the app’s icon, some doggy pawprints in the DAISY blue colour. Abe Lincoln’s famous dog was called Fido, and there is a [rap song](https://youtu.be/E4GXQ3ZlDf4?si=OtxaB3peklX4Y1HX) about the Italian dog of the same name who waited for 14 years after his master’s death.
+A: The acronym stands for Files In, Documents Out. It also a well known name for a dog, derived from the Latin word fidelis meaning "faithful. This explains the app’s icon, some doggy pawprints in the DAISY blue colour. Abe Lincoln’s famous dog was called Fido, and there is a [rap song](https://youtu.be/E4GXQ3ZlDf4?si=OtxaB3peklX4Y1HX) about the Italian dog of the same name who waited for 14 years after his master’s death.
