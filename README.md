@@ -6,17 +6,17 @@ In late 2024 DAISY Consortium conducted a survey of AI Use by DAISY Members. Thi
 
 To support our members’ desire to experiment and innovate we have developed a proof-of-concept app to enable DAISY members to try out Artificial Intelligence for some of the use cases they have identified. This includes the use of AI for PDF conversion, converting scientific expressions to MathML, image description, and metadata generation. The app makes it simpler to evaluate the capabilities of a range of online and offline AI services, and experiment with different prompts to suit different requirements. To facilitate a real-world evaluation of applications of AI the app is a working tool to conduct file conversions.
 
-On the basis of member evaluations, we can consider integrating some of these artificial intelligence services with DAISY production tools like the DAISY Pipeline.
+On the basis of member evaluations, we can consider integrating some of these artificial intelligence services into DAISY production tools like the DAISY Pipeline.
 
 ## Fido Feature List
 -	Accessible desktop app for Windows and Mac (possibly Linux).
 -	Supports input and output of input and output of various formats (EPUB, HTML, Markdown, Word).
--	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF and pix2text) and cloud-based AI (Mistral AI and Mathpix).
+-	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF) and cloud-based AI (Marjer, Mistral AI, and Mathpix).
 -	Conversions include features especially important for accessible book production, including metadata and page markup.
--	Generates draft image descriptions using gen-AI (from Anthropic, Google, OpenAI and DeepSeek).
--	The user can specify image classifications and associated engineered prompts (to better handle different types of images, such as diagram, map, infographic, chart, table, timeline, photograph, etc)
+-	Generates draft image descriptions using gen-AI (from Anthropic, Google, and OpenAI).
+-	The user can specify image classifications and associated prompts (to better handle different types of images, eg diagram, map, infographic, chart, table, timeline, photograph, etc)
 -	Can be used to generate draft metadata using gen-AI
--	Gen-AI prompts can be customised by the user for language support and to meet house style, cultural and target audience requirements.
+-	Gen-AI prompts can be customised by the user for language, writing style, etc to meet house style, cultural and target audience requirements.
 -	The user can select from a choice of Gen-AI services for preferred functionality, costs and policy compliance.
 -	Gen-AI services from Anthropic, Google, OpenAI and DeepSeek are currently supported, with local Gen-AI support at the research stage.
 
