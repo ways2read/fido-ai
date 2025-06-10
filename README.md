@@ -10,15 +10,15 @@ On the basis of member evaluations, we can consider integrating some of these ar
 
 ## Fido Feature List
 -	Accessible desktop app for Windows and Mac (possibly Linux).
--	Supports input and output of input and output of various formats (EPUB, HTML, Markdown, Word).
--	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF) and cloud-based AI (Marjer, Mistral AI, and Mathpix).
+-	Supports input and output of input and output of various formats (EPUB, HTML, Markdown, Open Document Format, Word).
+-	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF) and cloud-based AI (Marker, Mistral AI, and Mathpix).
 -	Conversions include features especially important for accessible book production, including metadata and page markup.
--	Generates draft image descriptions using gen-AI (from Anthropic, Google, and OpenAI).
--	The user can specify image classifications and associated prompts (to better handle different types of images, eg diagram, map, infographic, chart, table, timeline, photograph, etc)
--	Can be used to generate draft metadata using gen-AI
+-	Generates draft image descriptions using GenAI (from Anthropic, Google, and OpenAI).
+-	The user can specify image classifications and associated prompts (to better handle different types of images, eg diagram, map, infographic, chart, table, timeline, photograph, etc).
+-	Can be used to generate draft metadata using GenAI.
 -	Gen-AI prompts can be customised by the user for language, writing style, etc to meet house style, cultural and target audience requirements.
 -	The user can select from a choice of Gen-AI services for preferred functionality, costs and policy compliance.
--	Gen-AI services from Anthropic, Google, OpenAI and DeepSeek are currently supported, with local Gen-AI support at the research stage.
+-	Gen-AI services from Anthropic, Google, OpenAI and DeepSeek are currently supported, with local GenAI support at the research stage.
 
 ## Questions and Answers
 Q: What AI did DAISY develop?
@@ -43,4 +43,4 @@ A: Whilst the conversions look very promising, please understand that Fido is no
 
 Q: Why Fido?
 
-A: The acronym stands for Files In, Documents Out. It also a well known name for a dog, derived from the Latin word fidelis meaning "faithful. This explains the app’s icon, some doggy pawprints in the DAISY blue colour. Abe Lincoln’s famous dog was called Fido, and there is a [rap song](https://youtu.be/E4GXQ3ZlDf4?si=OtxaB3peklX4Y1HX) about the Italian dog of the same name who waited for 14 years after his master’s death.
+A: The acronym stands for Files In, Documents Out. It also a well known name for a dog, derived from the Latin word fidelis meaning "faithful. This explains the app’s icon, some doggy pawprints in the DAISY blue colour. Abe Lincoln’s famous dog was called Fido, and there is a [rap song](https://youtu.be/E4GXQ3ZlDf4?si=OtxaB3peklX4Y1HX) about the Italian dog of the same name who waited for 14 years after his master’s death. We hope that Fido is a friendly companion as you explore the possibilities and limitations of AI for accessible publishing.
