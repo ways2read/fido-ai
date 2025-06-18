@@ -13,7 +13,7 @@ On the basis of member evaluations, we can consider integrating some of these ar
 -	Supports input and output of input and output of various formats (EPUB, HTML, Markdown, Open Document Format, Word).
 -	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF) and cloud-based AI (Marker, Mistral AI, and Mathpix).
 -	Conversions include features especially important for accessible book production, including metadata and page markup.
--	Generates draft image descriptions using GenAI (from Anthropic, Google, and OpenAI).
+-	Generates draft image descriptions using GenAI (from Anthropic, Google, and OpenAI). This can be for individual images, all images in a folder, Word document or PowerPoint deck.
 -	The user can specify image classifications and associated prompts (to better handle different types of images, eg diagram, map, infographic, chart, table, timeline, photograph, etc).
 -	Can be used to generate draft metadata using GenAI.
 -	Gen-AI prompts can be customised by the user for language, writing style, etc to meet house style, cultural and target audience requirements.
