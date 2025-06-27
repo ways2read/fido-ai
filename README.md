@@ -2,7 +2,7 @@
 A proof-of-concept app to make it easier to try out Artificial Intelligence for making accessible publications
 
 ## Background
-In late 2024 DAISY Consortium conducted a survey of AI Use by DAISY Members. This indicated high levels of interest in the adoption of AI, but the cost of AI services and the lack of technical expertise were both identified as potential barriers to adoption. 
+In late 2024 DAISY Consortium conducted a survey of AI Use by DAISY Members. This indicated high levels of interest in the adoption of AI but many organisations had limited technical expertise in this new field. 
 
 To support our members’ desire to experiment and innovate we have developed a proof-of-concept app to enable DAISY members to try out Artificial Intelligence for some of the use cases they have identified. This includes the use of AI for PDF conversion, converting scientific expressions to MathML, image description, and metadata generation. The app makes it simpler to evaluate the capabilities of a range of online and offline AI services, and experiment with different prompts to suit different requirements. To facilitate a real-world evaluation of applications of AI the app is a working tool to conduct file conversions.
 
@@ -11,7 +11,7 @@ On the basis of member evaluations, we can consider integrating some of these ar
 ## Fido Feature List
 -	Accessible desktop app for Windows and Mac (possibly Linux).
 -	Supports input and output of input and output of various formats (EPUB, HTML, Markdown, Open Document Format, Word).
--	Offers different methods for conversion from PDF, including offline conversion (PyMuPDF) and cloud-based AI (Marker, Mistral AI, and Mathpix).
+-	Offers different methods for conversion from PDF, namely MuPDF (local, non-AI) and Doctly, Marker, Mistral AI, and Mathpix (cloud based services).
 -	Conversions include features especially important for accessible book production, including metadata and page markup.
 -	Generates draft image descriptions using GenAI (from Anthropic, Google, and OpenAI). This can be for individual images, all images in a folder, Word document or PowerPoint deck.
 -	The user can specify image classifications and associated prompts (to better handle different types of images, eg diagram, map, infographic, chart, table, timeline, photograph, etc).
